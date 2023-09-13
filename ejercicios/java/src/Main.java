@@ -12,5 +12,7 @@ public class Main {
         Par.parImpar (11);
 
         System.out.println ("El promedio es: " + Promedio.promedio());
+
+        System.out.println ("El número menor es: " + Minimo.minimo());
     }
 }
