@@ -10,5 +10,7 @@ public class Main {
 
         Par.parImpar (8);
         Par.parImpar (11);
+
+        System.out.println ("El promedio es: " + Promedio.promedio());
     }
 }
